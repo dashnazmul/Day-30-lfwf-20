@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+
+/* ====== Header-section */
+
+.header_section{
+    background-color: #e3f2fd;
+    padding: 2px 0;
+}
+.navbar img {
+    width: 50px;
+    margin-right: 16px;
+}
+
+/* ===== Carousel section */
+
+.carousel-item img{
+    height: 550px;
+}
+
+/* =========== Progress - Accordion */
+
+.progress{
+    margin-bottom: 6px;
+}
+
+/* ========pagination */
+
+.pagination{
+    margin-left: 50%;
+}
